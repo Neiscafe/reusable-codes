@@ -1,4 +1,4 @@
-package br.com.deltasul.app.delta360.data
+
 
 import br.com.deltasul.app.delta360.domain.GenericError
 import br.com.deltasul.app.delta360.domain.HttpError
